@@ -1,0 +1,2 @@
+[19-Mar-2025 11:43:32 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.31. in /home/fdeamvhp/jaoopass.com/vendor/composer/platform_check.php on line 28
+[07-May-2025 17:19:52 Asia/Dhaka] PHP Deprecated:  Optional parameter $save declared before required parameter $currency_code is implicitly treated as a required parameter in /home/fdeamvhp/jaoopass.com/app/Http/Helper/InvoiceHelper.php on line 714
